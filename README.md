@@ -1,3 +1,3 @@
 # Olá! 
-- 🌱 Estudante de Análise e Desenvolvimento de sistemas do IFPI
+- 🌱 Estudante de Análise e Desenvolvimento de sistemas 
 
